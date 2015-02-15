@@ -1,2 +1,2 @@
 # wrestling-for-my-life
-A custom one-page theme based on wp-bootstrap lesson from Treehouse.
+A custom one-page theme built from a PSD file and based on the wp-bootstrap lesson from Treehouse.
